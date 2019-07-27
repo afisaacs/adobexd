@@ -28,51 +28,51 @@ XD ofrece atajos de teclado que agilizan el trabajo. Estos son los más populare
 
 #### MENU EDITAR
 
-![menu editar]('./imgs/menueditar.jpg')
+![menu editar]('imgs/menueditar.jpg')
 
 #### MENU ARCHIVO
 
-![menu archivo]('./imgs/menuarchivo.jpg')
+![menu archivo]('imgs/menuarchivo.jpg')
 
 #### TRAZADO / PLUMA
 
-![trazado]('./imgs/trazadopluma.jpg')
+![trazado]('imgs/trazadopluma.jpg')
 
 #### OBJETOS GRUPOS Y MESAS DE TRABAJO
 
-![mesas de trabajo]('./imgs/mesas.jpg')
+![mesas de trabajo]('imgs/mesas.jpg')
 
 #### ALINEACIÓN
 
-![alineación]('./imgs/alineacion.jpg')
+![alineación]('imgs/alineacion.jpg')
 
 #### ORGANIZACIÓN
 
-![organizacion]('./imgs/organizacion.jpg')
+![organizacion]('imgs/organizacion.jpg')
 
 #### DISTRIBUCIÓN
 
-![distribucion]('./imgs/distribucion.jpg')
+![distribucion]('imgs/distribucion.jpg')
 
 #### TEXTO
 
-![texto]('./imgs/texto.jpg')
+![texto]('imgs/texto.jpg')
 
 #### MENÚ HERRAMIENTAS
 
-![herramientas]('./imgs/herramientas.jpg')
+![herramientas]('imgs/herramientas.jpg')
 
 #### MEDICIÓN Y DISTANCIA ENTRE HERRAMIENTAS
 
-![distancia]('./imgs/distancia.jpg')
+![distancia]('imgs/distancia.jpg')
 
 #### EDICIÓN DE VECTORES
 
-![vectores]('./imgs/vectores.jpg')
+![vectores]('imgs/vectores.jpg')
 
 #### PROTOTIPOS
 
-![prototipos]('./imgs/prototipos.jpg')
+![prototipos]('imgs/prototipos.jpg')
 
 > En el siguiente link se pueden ver todos los atajos de teclado:
 > [Shortcuts Adobde XD]('https://helpx.adobe.com/content/dam/help/attachments/XDKeyboardshortcutsnew.pdf')
